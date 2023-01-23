@@ -70,7 +70,6 @@ from sqlalchemy.sql import or_ as or_
 from sqlalchemy.sql import outerjoin as outerjoin
 from sqlalchemy.sql import outparam as outparam
 from sqlalchemy.sql import over as over
-from sqlalchemy.sql import subquery as subquery
 from sqlalchemy.sql import table as table
 from sqlalchemy.sql import tablesample as tablesample
 from sqlalchemy.sql import text as text
