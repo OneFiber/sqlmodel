@@ -21,7 +21,6 @@ from sqlalchemy.schema import MetaData as MetaData
 from sqlalchemy.schema import PrimaryKeyConstraint as PrimaryKeyConstraint
 from sqlalchemy.schema import Sequence as Sequence
 from sqlalchemy.schema import Table as Table
-from sqlalchemy.schema import ThreadLocalMetaData as ThreadLocalMetaData
 from sqlalchemy.schema import UniqueConstraint as UniqueConstraint
 from sqlalchemy.sql import alias as alias
 from sqlalchemy.sql import all_ as all_
